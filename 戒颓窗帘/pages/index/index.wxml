@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="container">
+<view> 欢迎使用智能戒颓窗帘！ </view>
+<block>
+<image src="D:\窗帘\img\pig.jpg"></image>
+
+
+
+</block>
+      
+    
+
+<view class='blueX'> 点击下面按钮即可拉上窗帘 </view>
+ < button class="btn1" bindtap="sendCmd">
+               天黑拉窗帘</button>
+	<view class="order_top_con"> 作者：肖子轩，杜城伯，鲁延鹏，徐伟志，贺佳 </view>
+</view>
